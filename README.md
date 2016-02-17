@@ -1,4 +1,4 @@
-Google's Python Class
+##_Google's Python Class_
 
 This is a free online class offered by Google. This class is actually used within Google to train employees in Python. The course is [here] (https://developers.google.com/edu/python/). This course is for people who already know how to code and can be thought of as an intermediate Python class that starts slow but becomes increasingly challenging as it goes. It mainly focuses on developing scripts for everyday-type automation tasks. 
 
